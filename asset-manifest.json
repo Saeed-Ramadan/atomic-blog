@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Saeed-Ramadan.github.io/atomic-blog/static/css/main.1f78adec.css",
+    "main.js": "/https//Saeed-Ramadan.github.io/atomic-blog/static/js/main.2d597105.js",
+    "index.html": "/https//Saeed-Ramadan.github.io/atomic-blog/index.html",
+    "main.1f78adec.css.map": "/https//Saeed-Ramadan.github.io/atomic-blog/static/css/main.1f78adec.css.map",
+    "main.2d597105.js.map": "/https//Saeed-Ramadan.github.io/atomic-blog/static/js/main.2d597105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f78adec.css",
+    "static/js/main.2d597105.js"
+  ]
+}
